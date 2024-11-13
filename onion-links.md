@@ -18,4 +18,9 @@
 
 9 - http://24ov5b5kawzsevv2ayltf52shlutzsewcjligevx35izqahqivdujryd.onion/
 
-10 - http://4opleow6la4cuulbrxcp2lmpl6x2lw2nxsujdybrknqu3tlfxpfsrwqd.onion
+10 - http://4opleow6la4cuulbrxcp2lmpl6x2lw2nxsujdybrknqu3tlfxpfsrwqd.onion/
+
+
+## Directorys
+
+1 - 
