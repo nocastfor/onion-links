@@ -6,4 +6,8 @@
 
 3 - http://lgdchatdnioj4sgzb3qcqtv7wsk26s5qzgt3mdk57cp3txwuehkcpkid.onion/
 
-4 - http://trdiann2wi5nerqktcfktklfu67dbsmku2vzlkvlw52hwkb2q5ux4oid.onion
+4 - http://trdiann2wi5nerqktcfktklfu67dbsmku2vzlkvlw52hwkb2q5ux4oid.onion/
+
+5 - http://mzg4llxp3jplqaubgyfd4gop3ki5m56q4bvtdg4pvnlcbqg5uetvb4ad.onion/
+
+6 - https://hispachcpjfymc6lhad3jsfxq2tjcpabqc5oesogvcjkvm5rjtrwtbqd.onion/
