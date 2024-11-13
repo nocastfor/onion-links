@@ -11,3 +11,7 @@
 5 - http://mzg4llxp3jplqaubgyfd4gop3ki5m56q4bvtdg4pvnlcbqg5uetvb4ad.onion/
 
 6 - https://hispachcpjfymc6lhad3jsfxq2tjcpabqc5oesogvcjkvm5rjtrwtbqd.onion/
+
+7 - http://34vnln24rlakgbk6gpityvljieayyw7q4bhdbbgs6zp2v5nbh345zgad.onion/
+
+8 - 
