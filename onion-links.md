@@ -4,4 +4,6 @@
 
 2 - http://c2mdhim6btaiyae3xqthnxsz64brvdxsnbty4tvos65zb565y4v55iid.onion/
 
-3 - lgdchatdnioj4sgzb3qcqtv7wsk26s5qzgt3mdk57cp3txwuehkcpkid.onion
+3 - http://lgdchatdnioj4sgzb3qcqtv7wsk26s5qzgt3mdk57cp3txwuehkcpkid.onion/
+
+4 - http://trdiann2wi5nerqktcfktklfu67dbsmku2vzlkvlw52hwkb2q5ux4oid.onion
